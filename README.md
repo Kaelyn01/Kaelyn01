@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iODAiPjx0ZXh0IHg9IjUwJSIgeT0iNTgiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI0MnB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+SGksIEknbSBLYWVseW4g4pyoPC90ZXh0Pjwvc3ZnPg==" alt="Hi, I'm Kaelyn" />
-</p>
-
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAiPjx0ZXh0IHg9IjUwJSIgeT0iMzAiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsIEdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjIwcHgiIGZpbGw9IiMwRUE1RTkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkFnZW50IFJlc2VhcmNoZXIgwrcgQUk0UyDCtyBSaXNrIENvbnRyb2wgQWxnb3JpdGhtczwvdGV4dD48L3N2Zz4=" alt="Agent Researcher · AI4S · Risk Control Algorithms" />
-</p>
+<h1 align="center">Hi, I'm Kaelyn ✨</h1>
+<h3 align="center">Agent Researcher · AI4S · Risk Control Algorithms</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=AI4S+%7C+Agent+Systems+%7C+Risk+Control+Algorithms;Interdisciplinary+Researcher+in+Digital+Culture+and+Intelligent+Computing;From+IT+Audit+to+Data+Science+to+AI+Agent+Development;Building+intelligent+systems+with+research+and+engineering" alt="Typing SVG" />
@@ -18,9 +13,7 @@
 
 ---
 
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDgiPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzMiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOHB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj4gQWJvdXQgTWUgPC90ZXh0Pgo8L3N2Zz4=" alt="About Me" />
-</p>
+## About Me
 
 Master's candidate at <b>Fudan University</b>, affiliated with the <b>State Key Laboratory of Digital Culture Protection and Tourism Data Intelligent Computing</b>, where I focus on Agent systems research.
 
@@ -28,9 +21,7 @@ Grounded in a <b>dual-disciplinary foundation</b> — economics & management × 
 
 ---
 
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDgiPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzMiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOHB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj4gRXhwZXJpZW5jZSA8L3RleHQ+Cjwvc3ZnPg==" alt="Experience" />
-</p>
+## Experience
 
 <b>ByteDance</b> — AI Agent Development & Risk Control Algorithm Intern · *Apr 2026 – Present*
 
@@ -44,9 +35,7 @@ Grounded in a <b>dual-disciplinary foundation</b> — economics & management × 
 
 ---
 
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDgiPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzMiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOHB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj4gVGVjaCBTdGFjayA8L3RleHQ+Cjwvc3ZnPg==" alt="Tech Stack" />
-</p>
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=white" />
