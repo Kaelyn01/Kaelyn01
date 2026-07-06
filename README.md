@@ -1,5 +1,10 @@
-<h1 align="center"><span style="font-family: 'Snell Roundhand', 'Brush Script MT', 'Lucida Handwriting', cursive; color: #38BDF8;">Hi, I'm Kaelyn ✨</span></h1>
-<h3 align="center"><span style="font-family: 'Snell Roundhand', 'Brush Script MT', Georgia, serif; color: #0EA5E9;">Agent Researcher · AI4S · Risk Control Algorithms</span></h3>
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iODAiPjx0ZXh0IHg9IjUwJSIgeT0iNTgiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSI0MnB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+SGksIEknbSBLYWVseW4g4pyoPC90ZXh0Pjwvc3ZnPg==" alt="Hi, I'm Kaelyn" />
+</p>
+
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAiPjx0ZXh0IHg9IjUwJSIgeT0iMzAiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsIEdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjIwcHgiIGZpbGw9IiMwRUE1RTkiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkFnZW50IFJlc2VhcmNoZXIgwrcgQUk0UyDCtyBSaXNrIENvbnRyb2wgQWxnb3JpdGhtczwvdGV4dD48L3N2Zz4=" alt="Agent Researcher · AI4S · Risk Control Algorithms" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=AI4S+%7C+Agent+Systems+%7C+Risk+Control+Algorithms;Interdisciplinary+Researcher+in+Digital+Culture+and+Intelligent+Computing;From+IT+Audit+to+Data+Science+to+AI+Agent+Development;Building+intelligent+systems+with+research+and+engineering" alt="Typing SVG" />
@@ -13,21 +18,19 @@
 
 ---
 
-## <span style="font-family: 'Snell Roundhand', 'Brush Script MT', 'Lucida Handwriting', cursive; color: #38BDF8;">About Me</span>
-
-<span style="font-family: Georgia, 'Times New Roman', serif; color: #1E293B;">
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDgiPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzMiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOHB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj4gQWJvdXQgTWUgPC90ZXh0Pgo8L3N2Zz4=" alt="About Me" />
+</p>
 
 Master's candidate at <b>Fudan University</b>, affiliated with the <b>State Key Laboratory of Digital Culture Protection and Tourism Data Intelligent Computing</b>, where I focus on Agent systems research.
 
 Grounded in a <b>dual-disciplinary foundation</b> — economics & management × artificial intelligence — I bring analytical rigor paired with engineering capability. My work sits at the intersection of <b>AI4S · data intelligence · risk control</b>, informed by 3 years as an IT Auditor at <b>WUYIGE Certified Public Accountants llp</b> and industry experience at <b>ByteDance, NIO, and Ford Motor Company</b>.
 
-</span>
-
 ---
 
-## <span style="font-family: 'Snell Roundhand', 'Brush Script MT', 'Lucida Handwriting', cursive; color: #38BDF8;">Experience</span>
-
-<span style="font-family: Georgia, 'Times New Roman', serif; color: #1E293B;">
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDgiPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzMiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOHB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj4gRXhwZXJpZW5jZSA8L3RleHQ+Cjwvc3ZnPg==" alt="Experience" />
+</p>
 
 <b>ByteDance</b> — AI Agent Development & Risk Control Algorithm Intern · *Apr 2026 – Present*
 
@@ -39,11 +42,11 @@ Grounded in a <b>dual-disciplinary foundation</b> — economics & management × 
 
 <b>WUYIGE Certified Public Accountants llp</b> — IT Auditor · *Jun 2022 – Jul 2025*
 
-</span>
-
 ---
 
-## <span style="font-family: 'Snell Roundhand', 'Brush Script MT', 'Lucida Handwriting', cursive; color: #38BDF8;">Tech Stack</span>
+<p align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDgiPgogIDx0ZXh0IHg9IjUwJSIgeT0iMzMiIGZvbnQtZmFtaWx5PSInU25lbGwgUm91bmRoYW5kJywgJ0JydXNoIFNjcmlwdCBNVCcsICdMdWNpZGEgSGFuZHdyaXRpbmcnLCBjdXJzaXZlLCBHZW9yZ2lhLCBzZXJpZiIgZm9udC1zaXplPSIyOHB4IiBmaWxsPSIjMzhCREY4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIj4gVGVjaCBTdGFjayA8L3RleHQ+Cjwvc3ZnPg==" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=white" />
