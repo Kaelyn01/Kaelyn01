@@ -17,7 +17,7 @@
 
 Master's candidate at <b>Fudan University</b>, affiliated with the <b>State Key Laboratory of Digital Culture Protection and Tourism Data Intelligent Computing</b>, where I focus on Agent systems research.
 
-Grounded in a <b>dual-disciplinary foundation</b> — Finance & Artificial intelligence — I bring analytical rigor paired with engineering capability. My work sits at the intersection of <b>AI4S · Data intelligence · Risk control</b>, informed by 3 years as an IT Auditor at <b>WUYIGE Certified Public Accountants llp</b> and industry experience at <b>ByteDance, NIO, and Ford Motor Company</b>.
+Grounded in a <b>dual-disciplinary foundation</b> — Finance Management & Artificial Intelligence — I bring analytical rigor paired with engineering capability. My work sits at the intersection of <b>AI4S · Data intelligence · Risk control</b>, informed by 3 years as an IT Auditor at <b>WUYIGE Certified Public Accountants llp</b> and industry experience at <b>ByteDance, NIO, and Ford Motor Company</b>.
 
 ---
 
