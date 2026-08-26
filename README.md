@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kaelyn ✨</h1>
-<h3 align="center">Agent Researcher · AI4S · Risk Control Algorithms</h3>
+<h3 align="center">Machine Learning Engineer (Risk Control) · LLM Agents · AI4S</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=AI4S+%7C+Agent+Systems+%7C+Risk+Control+Algorithms;Interdisciplinary+Researcher+in+Digital+Culture+and+Intelligent+Computing;From+IT+Audit+to+Data+Science+to+AI+Agent+Development;Building+intelligent+systems+with+research+and+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=ML+Engineer+%40+ByteDance+%7C+Risk+Control;LLM+Agents+%7C+RAG+%7C+SFT+%7C+Qwen;MPhil+%40+Fudan+University+%7C+Ranked+1st+in+Cohort;From+IT+Audit+to+Data+Science+to+AI+Agent+Development;Building+intelligent+systems+with+research+and+engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,23 +15,45 @@
 
 ## About Me
 
-Master's candidate at <b>Fudan University</b>, affiliated with the <b>State Key Laboratory of Digital Culture Protection and Tourism Data Intelligent Computing</b>, where I focus on Agent systems research.
+Master's candidate at <b>Fudan University</b> (Intelligent Computing for Tourism Data, <b>ranked 1st in cohort</b>), affiliated with the <b>State Key Laboratory of Digital Culture Protection and Tourism Data Intelligent Computing</b>, where I focus on Agent systems research.
 
-Grounded in a <b>dual-disciplinary foundation</b> — Finance Management & Artificial Intelligence — I bring analytical rigor paired with engineering capability. My work sits at the intersection of <b>AI4S · Data intelligence · Risk control</b>, informed by 3 years as an IT Auditor at <b>WUYIGE Certified Public Accountants llp</b> and industry experience at <b>ByteDance, NIO, and Ford Motor Company</b>.
+Currently a <b>Machine Learning Engineer Intern (Risk Control) at ByteDance</b>, building risk-control algorithms and multi-agent systems for Douyin Life Service. My work sits at the intersection of <b>LLM Agents · Data intelligence · Risk control</b>, grounded in a dual-disciplinary foundation (Finance Management & Artificial Intelligence) and 3 years as a Senior IT Auditor at <b>WUYIGE Certified Public Accountants llp</b>, plus industry experience at <b>NIO and Ford Motor Company</b>.
 
 ---
 
 ## Experience
 
-<b>ByteDance</b> — AI Agent Development & Risk Control Algorithm Intern · *Apr 2026 – Present*
+<b>ByteDance</b> — Machine Learning Engineer Intern, Risk Control · *Apr 2026 – Present*
+- Risk-control algorithms for Douyin Life Service: behavioral sequence mining & feature engineering for merchant risk identification
+- Led <b>Dancer Workpulse</b>, an Agent Runtime-based multi-agent system using fan-out orchestration to solve context explosion — per-worker context footprint reduced to 40–50% of the context window; 🏆 <b>1st Prize, department AI competition</b>
+- Risk-detection Skills, data engineering & database optimization, CNN-based image recognition models for risk signals
 
 <b>Fudan University</b> — Graduate Researcher, State Key Laboratory of Digital Culture Protection and Tourism Data Intelligent Computing · *Sep 2025 – Present*
 
-<b>NIO</b> — Global Headquarters, Data Analyst Intern · *Nov 2025 – Mar 2026*
+<b>NIO</b> — LLM Application Engineer Intern · *Nov 2025 – Apr 2026*
+- LLM-powered intelligent in-car assistants with Qwen2.5-72B, SFT, RAG and agentic workflows
+- Hierarchical model routing & cloud-edge inference orchestration, using intent complexity, tool requirements, context dependency and confidence-based routing to balance latency, accuracy and inference cost across lightweight and large models
+- Tool-calling workflows with safety validation connecting LLMs to vehicle-control and service APIs (HVAC, navigation, music, phone calls)
 
-<b>Ford Motor Company</b> — Data Science Intern · *Aug 2025 – Nov 2025*
+<b>Ford Motor Company</b> — Data Science Researcher Intern · *Aug 2025 – Nov 2025*
+- Automotive market forecasting with ML and hybrid time-series models (XGBoost etc.) to model demand dynamics and growth opportunities
+- LLM-powered extraction of market and consumer signals from unstructured data; feature engineering pipelines incorporating competitive actions, pricing, macroeconomic indicators and sentiment
+- Market simulation and agent-based modeling for consumer choice, competitive dynamics and pricing elasticity
 
-<b>WUYIGE Certified Public Accountants llp</b> — IT Auditor · *Jun 2022 – Jul 2025*
+<b>WUYIGE Certified Public Accountants llp (大信)</b> — Senior IT Auditor · *Aug 2022 – Jun 2025*
+- Led IT audit and technology risk engagements for large technology enterprises and state-owned technology groups, including China Mobile and China Electronics Technology Group
+- Evaluated enterprise IT systems, IT controls, data governance and information security; Python-based data analytics, transaction data mining and automated control testing
+- Early adopter of LLM-assisted development for coding, data analysis and workflow automation
+
+---
+
+## Education
+
+<b>Fudan University</b> — MPhil, Intelligent Computing for Tourism Data · *Sep 2025 – Dec 2027* · Ranked 1st in cohort
+- Core organizer, Fudan AI Science Association (FDUAISA): technical training camps with leading tech companies, including Huawei's Data Storage Bootcamp, an LLM GPU Inference Acceleration training camp, and ByteDance Volcano Engine's ArkClaw training course
+
+<b>Shanghai Jiao Tong University</b> — Summer School, Artificial Intelligence & Intelligent Systems · *Jul 2026*
+- Selected participant, 2026 IEEE CIS International Summer School on "Industrial Intelligence: Foundation Models, Algorithmic Tools, Intelligent Agents and Systems"
 
 ---
 
@@ -56,4 +78,12 @@ Grounded in a <b>dual-disciplinary foundation</b> — Finance Management & Artif
   <img src="https://img.shields.io/badge/Docker-475569?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-475569?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tian-chen-11ab17429/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
