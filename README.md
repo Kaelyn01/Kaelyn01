@@ -40,20 +40,10 @@ Currently a <b>Machine Learning Engineer Intern (Risk Control) at ByteDance</b>,
 - LLM-powered extraction of market and consumer signals from unstructured data; feature engineering pipelines incorporating competitive actions, pricing, macroeconomic indicators and sentiment
 - Market simulation and agent-based modeling for consumer choice, competitive dynamics and pricing elasticity
 
-<b>WUYIGE Certified Public Accountants llp (大信)</b> — Senior IT Auditor · *Aug 2022 – Jun 2025*
+<b>WUYIGE Certified Public Accountants llp</b> — Senior IT Auditor · *Aug 2022 – Jun 2025*
 - Led IT audit and technology risk engagements for large technology enterprises and state-owned technology groups, including China Mobile and China Electronics Technology Group
 - Evaluated enterprise IT systems, IT controls, data governance and information security; Python-based data analytics, transaction data mining and automated control testing
 - Early adopter of LLM-assisted development for coding, data analysis and workflow automation
-
----
-
-## Education
-
-<b>Fudan University</b> — MPhil, Intelligent Computing for Tourism Data · *Sep 2025 – Dec 2027* · Ranked 1st in cohort
-- Core organizer, Fudan AI Science Association (FDUAISA): technical training camps with leading tech companies, including Huawei's Data Storage Bootcamp, an LLM GPU Inference Acceleration training camp, and ByteDance Volcano Engine's ArkClaw training course
-
-<b>Shanghai Jiao Tong University</b> — Summer School, Artificial Intelligence & Intelligent Systems · *Jul 2026*
-- Selected participant, 2026 IEEE CIS International Summer School on "Industrial Intelligence: Foundation Models, Algorithmic Tools, Intelligent Agents and Systems"
 
 ---
 
