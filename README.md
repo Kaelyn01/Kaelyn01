@@ -15,8 +15,6 @@
 
 ## About Me
 
-Master's candidate at <b>Fudan University</b> (Intelligent Computing for Tourism Data, <b>ranked 1st in cohort</b>), affiliated with the <b>State Key Laboratory of Digital Culture Protection and Tourism Data Intelligent Computing</b>, where I focus on Agent systems research.
-
 Currently a <b>Machine Learning Engineer Intern (Risk Control) at ByteDance</b>, building risk-control algorithms and multi-agent systems for Douyin Life Service. My work sits at the intersection of <b>LLM Agents · Data intelligence · Risk control</b>, grounded in a dual-disciplinary foundation (Finance Management & Artificial Intelligence) and 3 years as a Senior IT Auditor at <b>WUYIGE Certified Public Accountants llp</b>, plus industry experience at <b>NIO and Ford Motor Company</b>.
 
 ---
