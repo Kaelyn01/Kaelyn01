@@ -16,7 +16,7 @@
 
 <p><img src="assets/bytedance.svg" width="24" height="24" align="absmiddle" alt="ByteDance"> &nbsp; <b>ByteDance</b> · Machine Learning Engineer Intern &nbsp; <sub>Apr&nbsp;2026&nbsp;–&nbsp;Present</sub></p>
 
-<p><img src="assets/fudan.svg" width="24" height="24" align="absmiddle" alt="Fudan University"> &nbsp; <b>Fudan University</b> · Graduate Researcher &nbsp; <sub>Sep&nbsp;2025&nbsp;–&nbsp;Present</sub></p>
+<p><img src="assets/fudan.svg" width="24" height="24" align="absmiddle" alt="Fudan University"> &nbsp; <b>Fudan University</b> · MPhil Student &nbsp; <sub>Sep&nbsp;2025&nbsp;–&nbsp;Present</sub></p>
 
 <p><img src="assets/nio.svg" width="24" height="24" align="absmiddle" alt="NIO Inc."> &nbsp; <b>NIO Inc.</b> · Large Language Model Application Engineer Intern &nbsp; <sub>Nov&nbsp;2025&nbsp;–&nbsp;Apr&nbsp;2026</sub></p>
 
