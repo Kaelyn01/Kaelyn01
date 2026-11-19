@@ -14,7 +14,7 @@
   </picture>
 </h3>
 
-<p><img src="assets/fudan.svg" width="24" height="24" align="absmiddle" alt="Fudan University"> &nbsp; <b>Fudan University</b> · <b>Data Intelligence Lab</b> · MPhil Student &nbsp; <sub>Sep&nbsp;2025&nbsp;–&nbsp;Present</sub></p>
+<p><img src="assets/fudan.svg" width="24" height="24" align="absmiddle" alt="Fudan University"> &nbsp; <b>Fudan University</b> · Data Intelligence Lab · MPhil Student &nbsp; <sub>Sep&nbsp;2025&nbsp;–&nbsp;Present</sub></p>
 
 <p><img src="assets/bytedance.svg" width="24" height="24" align="absmiddle" alt="ByteDance"> &nbsp; <b>ByteDance</b> · Risk Control · Machine Learning Engineer Intern &nbsp; <sub>Apr&nbsp;2026&nbsp;–&nbsp;Present</sub></p>
 
@@ -24,4 +24,4 @@
 
 <p><img src="assets/wuyige.svg" width="24" height="24" align="absmiddle" alt="WUYIGE Certified Public Accountants LLP"> &nbsp; <b>WUYIGE Certified Public Accountants LLP</b> · Senior Information Technology Auditor &nbsp; <sub>Aug&nbsp;2022&nbsp;–&nbsp;Jun&nbsp;2025</sub></p>
 
-<p><sub><a href="https://scholar.google.com/citations?user=KAsaevoAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://huggingface.co/Kaelyn01">Hugging Face</a> · <a href="https://www.linkedin.com/in/tian-chen-11ab17429/">LinkedIn</a> · <a href="mailto:tianchen.fdu@gmail.com">Email</a></sub></p>
+<p><sub><a href="https://scholar.google.com/citations?user=KAsaevoAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://huggingface.co/Kaelyn01">Hugging Face</a> · <a href="https://www.linkedin.com/in/tian-chen-11ab17429/">LinkedIn</a> · tianchen.fdu@gmail.com</sub></p>
